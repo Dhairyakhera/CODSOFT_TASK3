@@ -1,1 +1,3 @@
 CODSOFT DATA SCIENCE INTERNSHIP TASK-3
+
+The Iris Classification project involved using Decision Trees to categorize iris flowers into their respective species based on features such as petal length, petal width, sepal length, and sepal width. The Decision Tree model was trained on the dataset to learn the patterns and relationships between these features and the species. After the model was trained, the decision tree was plotted, providing a clear and interpretable visualization of how the model made its classifications. This project highlights the effectiveness of Decision Trees in handling multi-class classification tasks with transparency and interpretability.
